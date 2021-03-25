@@ -1,3 +1,3 @@
 # fleapit
 
-Fleapit's Website (https://kumarsh2311.github.io/fleapit/)
+Fleapit's Website (https://smackle.github.io/fleapit/)
