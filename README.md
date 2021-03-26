@@ -1,3 +1,3 @@
 # fleapit
 
-Fleapit's Website (https://smackle.github.io/fleapit/)
+Fleapit's Website [Fleapit Discord Bot](https://smackle.github.io/fleapit/)
